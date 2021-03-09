@@ -72,7 +72,8 @@ const songEndHandler = async () => {
         ref={audioRef} 
         onEnded={songEndHandler}
         src={currentSong.audio}>
-      </audio>   
+      </audio>  
+      <h1> &copy; by Sharmil Adroja </h1>
     </div>
   );
 }

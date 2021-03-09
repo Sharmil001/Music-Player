@@ -1,8 +1,8 @@
-<h1 style="text-align:center">Music App</h1>
+<h1>Music App</h1>
 <h4><i>Codin Music (my music player)</i></h4>
 <br>
 <img alt="GIF" src="https://github.com/Sharmil001/Music-Player/blob/main/Images/music.gif?raw=true"/>
-<br>
+
 
 ## Discription
 <p>This is react based web application. Application help to play your own music with are predefined by me. You can do all posible that are available in any music player like spotify.</p>

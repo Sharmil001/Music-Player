@@ -5,9 +5,9 @@
 
 
 ## Discription
-<p>This is react based web application. Application help to play your own music with are predefined by me. You can do all posible that are available in any music player like spotify.<br>
+**This is react based web application. Application help to play your own music with are predefined by me. You can do all posible that are available in any music player like spotify.
 [(Live Demo)](https://sharmil001.github.io/Music-Player/)
-</p>
+
 
 
 

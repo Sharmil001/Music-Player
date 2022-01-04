@@ -23,25 +23,6 @@ Serve the app to browser
 
 ### `yarn start`
 
-
-## Tutorials/References
-
-https://reactjs.org/tutorial/tutorial.html
-
-https://egghead.io/courses/the-beginner-s-guide-to-reactjs
-
-https://www.valentinog.com/blog/react-redux-tutorial-beginners/
-
-https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3
-
-https://www.raywenderlich.com/178012/react-native-tutorial-building-android-apps-javascript
-
-https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a
-
-https://www.gatsbyjs.org/tutorial/part-four/
-
-https://redux.js.org/advanced/example-reddit-api
-
 ## Contributing
 
 Feel free to open issues and pull requests!
